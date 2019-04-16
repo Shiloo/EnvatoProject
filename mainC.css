@@ -1,0 +1,27 @@
+.head{
+    background-color: yellow;
+    margin-left:100px;
+    margin-right:-900px;
+    padding-left: 100px;
+    height: 100px;
+}
+.body{
+    background-image:url(https://cf.ua/m/blog/aed8178e260cba567a536518c9fdcf82/images/matsoni-581a640b92970.jpg);
+    width: 900px;
+    height: 900px; 
+}
+.left-sidebar{
+    background-color:#FDA54C;
+    margin-left:0px;
+    height:835px;
+    width: 290px;
+    margin-top:50px;
+
+}
+.content{
+    background-color:#414141;
+    height: 100px;
+    width: 100px;
+    margin-left:500px;
+    margin-top:50px;
+}
